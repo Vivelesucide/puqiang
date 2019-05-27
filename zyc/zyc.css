@@ -1,0 +1,27 @@
+.site-topbar {
+  position: relative;
+z-inedx:30;
+height: 40px;
+font-size:12px;
+color: #b0b0b0;
+background:#333;
+
+
+}
+
+div {
+  display : block;
+}
+.container{
+  width:1226px;
+  *zoom:1;
+  margin-right:auto;
+  margin-left:auto;
+
+}
+
+.topbar-nav {
+  float: left;
+  height: 40px;
+  line-height: 40px;
+}
